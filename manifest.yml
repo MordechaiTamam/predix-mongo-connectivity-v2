@@ -1,0 +1,5 @@
+---
+applications:
+  - name: predix-mongo-connectivity-v2
+    buildpack: java_buildpack
+    path: target/predix-mongo-connectivity-v2-0.0.1-SNAPSHOT.jar
